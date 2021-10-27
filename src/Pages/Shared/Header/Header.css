@@ -1,0 +1,14 @@
+.link-top{
+     color: #0B0B0B;
+     font-style: normal;
+     font-weight: 500;
+     font-size: 16px;
+}
+
+.logout-style{
+background: white;
+border: 1px solid gainsboro;
+padding: 6px 8px;
+margin-right: 10px;
+border-radius: 6px;
+}
